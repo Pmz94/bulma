@@ -1,6 +1,6 @@
 # [Bulma](https://bulma.io)
 
-Bulma is a **modern CSS framework** based on [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
+Bulma es un **framework de CSS** basado en [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 
 [![npm](https://img.shields.io/npm/v/bulma.svg)](https://www.npmjs.com/package/bulma)
 [![npm](https://img.shields.io/npm/dm/bulma.svg)](https://www.npmjs.com/package/bulma)
@@ -11,7 +11,7 @@ Bulma is a **modern CSS framework** based on [Flexbox](https://developer.mozilla
 
 ## Quick install
 
-Bulma is constantly in development! Try it out now:
+Bulma está en desarrollo constante! Pruébalo:
 
 ### NPM
 
@@ -36,19 +36,19 @@ bower install bulma
 
 [https://cdnjs.com/libraries/bulma](https://cdnjs.com/libraries/bulma)
 
-Feel free to raise an issue or submit a pull request.
+Siéntase libre de reportar alguna falla o pedir un pull request.
 
-## CSS only
+## CSS puro
 
-Bulma is a **CSS** framework. As such, the sole output is a single CSS file: [bulma.css](https://github.com/jgthms/bulma/blob/master/css/bulma.css)
+Bulma es un framework en **CSS**. Tan así, que es básicamente solo un archivo CSS: [bulma.css](https://github.com/jgthms/bulma/blob/master/css/bulma.css)
 
-You can either use that file, "out of the box", or download the Sass source files to customize the [variables](https://bulma.io/documentation/overview/variables/).
+Puede usar solo ese archivo, o también los archivos SASS para personalizar las [variables](https://bulma.io/documentation/overview/variables/).
 
-There is **no** JavaScript included. People generally want to use their own JS implementation (and usually already have one). Bulma can be considered "environment agnostic": it's just the style layer on top of the logic.
+**No** incluye JavaScript. La gente por lo general prefiere usar sus propias implementaciones de JS (que muchos ya la tienen). Se puede considerar como "agnóstico de su entorno", es decir, es la capa de estilos por encima de toda la lógica.
 
-## Browser Support
+## Compatibilidad con navegadores
 
-Bulma uses [autoprefixer](https://github.com/postcss/autoprefixer) to make (most) Flexbox features compatible with earlier browser versions. According to [Can I use](https://caniuse.com/#feat=flexbox), Bulma is compatible with **recent** versions of:
+Bulma usa [autoprefixer](https://github.com/postcss/autoprefixer) para hacer muchas características de Flexbox compatible con las versiones mas antiguas de los navegadores. Según [Can I use](https://caniuse.com/#feat=flexbox), Bulma es compatible con las versiones **mas recientes** de:
 
 * Chrome
 * Edge
@@ -56,17 +56,17 @@ Bulma uses [autoprefixer](https://github.com/postcss/autoprefixer) to make (most
 * Opera
 * Safari
 
-Internet Explorer (10+) is only partially supported.
+Internet Explorer (versión 10 en adelante) es parcialmente compatible.
 
-## Documentation
+## Documentación
 
-The documentation resides in the [docs](docs) directory, and is built with the Ruby-based [Jekyll](https://jekyllrb.com/) tool.
+La documentación está en la carpeta [docs](docs), que está hecha con la aplicación (escrita en Ruby) [Jekyll](https://jekyllrb.com/).
 
-Browse the [online documentation here.](https://bulma.io/documentation/overview/start/)
+También esta [en línea aquí.](https://bulma.io/documentation/overview/start/)
 
-## Related projects
+## Proyectos relacionados
 
-| Project                                                                            | Description                                                        |
+| Proyecto                                                                            | Descripción                                                        |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | [Bulma with Attribute Modules](https://github.com/j5bot/bulma-attribute-selectors) | Adds support for attribute-based selectors.                        |
 | [Bulma with Rails](https://github.com/joshuajansen/bulma-rails)                    | Integrates Bulma with the rails asset pipeline                     |
@@ -91,6 +91,6 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 | [purescript-bulma](https://github.com/sectore/purescript-bulma)                    | PureScript bindings for Bulma                                      |
 | [Vue Datatable](https://github.com/laravel-enso/vuedatatable)                      | Bulma themed datatable based on Vue, Laravel & JSON templates      |
 
-## Copyright and license
+## Licencia y Derechos de autor
 
 Code copyright 2017 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma/blob/master/LICENSE).
