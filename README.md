@@ -1,6 +1,6 @@
 # [Bulma](https://bulma.io)
 
-Bulma es un **framework de CSS** basado en [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
+Bulma es un **framework en CSS** basado en [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 
 [![npm](https://img.shields.io/npm/v/bulma.svg)](https://www.npmjs.com/package/bulma)
 [![npm](https://img.shields.io/npm/dm/bulma.svg)](https://www.npmjs.com/package/bulma)
@@ -18,7 +18,7 @@ Bulma está en desarrollo constante! Pruébalo:
 ```sh
 npm install bulma
 ```
-**or**
+**o**
 
 ### Yarn
 
